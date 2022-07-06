@@ -7,5 +7,3 @@ Head of Engineering at [Blockchain Capital](https://github.com/BlockchainCapital
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsproule&theme=dark)](https://git.io/streak-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rsproule)
-
-![](https://gitwar.herokuapp.com/badge?username=rsproule)
