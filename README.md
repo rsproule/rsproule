@@ -1,6 +1,6 @@
 # Ryan Sproule
 
-Engineering at [Blockchain Capital](https://github.com/BlockchainCapitalResearch)
+Engineering at [Blockchain Capital](https://github.com/BlockchainCap)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rsproule&count_private=true&theme=gotham&show_icons=true&include_all_commits=true)
 
